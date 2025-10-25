@@ -31,8 +31,8 @@ NoveltyBench/
 │   └── experiments                            # Scripts and LLM prompts used to generate LLM predictions as well as for evaluating the predictions
 │
 ├── .gitignore
-├── requirements.txt   
-└── README.md
+├── README.md 
+└── requirements.txt  
 ```
 
 ## 🧱 Data Description
