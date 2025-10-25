@@ -20,9 +20,9 @@ Our benchmark unifies approaches for judging the novelty of research ideas by fo
 ```
 NoveltyBench/
 ├── data/
-│   ├── final_benchmark_dataset                # includes the dataset for RINoBench
-│   ├── evaluations                            # incudes the evaluation results of various state-of-the-art LLMs on NoveltyBench
-│   └── novelty_predictions                    # incudes the reserach idea nvoelty judgments of various state-of-the-art LLMs on NoveltyBench
+│   ├── final_benchmark_dataset                # includes the dataset of RINoBench
+│   ├── evaluations                            # incudes the evaluation results of various state-of-the-art LLMs on RINoBench
+│   └── novelty_predictions                    # incudes the reserach idea nvoelty judgments of various state-of-the-art LLMs on RINoBench
 │
 ├── figures/                                   # includes the figures in the paper
 │
