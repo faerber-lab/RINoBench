@@ -22,9 +22,9 @@ NoveltyBench/
 ├── data/
 │   ├── final_benchmark_dataset                # includes the dataset of RINoBench
 │   ├── evaluations                            # incudes the evaluation results of various state-of-the-art LLMs on RINoBench
-│   └── novelty_predictions                    # incudes the reserach idea nvoelty judgments of various state-of-the-art LLMs on RINoBench
+│   └── novelty_predictions                    # incudes the reserach idea novelty judgments of various state-of-the-art LLMs on RINoBench
 │
-├── figures/                                   # includes the figures in the paper
+├── figures/                                   # includes the figure in the paper
 │
 ├── src/
 │   ├── data_processing                        # Scripts and LLM prompts used to construct our dataset
