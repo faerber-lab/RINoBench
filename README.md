@@ -24,7 +24,7 @@ NoveltyBench/
 │   ├── evaluations                            # incudes the evaluation results of various state-of-the-art LLMs on RINoBench
 │   └── novelty_predictions                    # incudes the reserach idea novelty judgments of various state-of-the-art LLMs on RINoBench
 │
-├── figures/                                   # includes the figure in the paper
+├── figures/                                   # includes the figures from the paper
 │
 ├── src/
 │   ├── data_processing                        # Scripts and LLM prompts used to construct our dataset
